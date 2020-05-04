@@ -1,0 +1,7 @@
+https://github.com/cosmos17/test0504.git
+
+git push : github에 본인이 작업한 코드를 업로드
+git pull : github에 최신으로 업데이트 된 코드를 본인의 local 컴퓨터에 적용
+
+git에 branch : 한 프로젝트에 대한 여러 작업의 갈래를 branch라고 함. local에서도 여러 branch를 
+(github 업로드 전에 모든 branch를 합쳐야 함)
