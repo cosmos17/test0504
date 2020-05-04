@@ -3,5 +3,11 @@ https://github.com/cosmos17/test0504.git
 git push : github에 본인이 작업한 코드를 업로드
 git pull : github에 최신으로 업데이트 된 코드를 본인의 local 컴퓨터에 적용
 
-git에 branch : 한 프로젝트에 대한 여러 작업의 갈래를 branch라고 함. local에서도 여러 branch를 
+git에 branch : 한 프로젝트에 대한 여러 작업의 갈래를 branch라고 함. local에서도 여러 branch를 만들 수 있음.
 (github 업로드 전에 모든 branch를 합쳐야 함)
+
+
+pull과 clone을 통해서 github repository에 저장된 프로젝트를 가져올 수 있다.
+
+pull : 본인의 포르젝트에 수정된 부분만 적용
+clone : 단순 다운로드(수정된 부분 고려x), github repository에 저장된 프로젝트를 다운로드
